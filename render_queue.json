@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "created": "2025-07-21T18:40:28.522338",
+  "jobs": {
+    "audio": [],
+    "video": [],
+    "shared": []
+  },
+  "settings_override": false,
+  "override_settings": {}
+}
